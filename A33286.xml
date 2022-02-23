@@ -1,0 +1,680 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vermiculars destroyed with an historical account of worms, collected from the best authors as well ancient as modern, and expe[r]iments [pr]oved by that admirable invention of the microscope : with directions for the taking those most famous medicines, intituled Pulvis Benedictus, &amp;c. : also diagnostick signs of worms and signs of health in children, with the various causes of vermiculars / by R.C., chymist ...</title>
+            <author>R. C. (R. Clark)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33286</idno>
+            <idno type="STC">Wing C4484</idno>
+            <idno type="STC">ESTC R39983</idno>
+            <idno type="EEBO-CITATION">18579111</idno>
+            <idno type="OCLC">ocm 18579111</idno>
+            <idno type="VID">108076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1648:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vermiculars destroyed with an historical account of worms, collected from the best authors as well ancient as modern, and expe[r]iments [pr]oved by that admirable invention of the microscope : with directions for the taking those most famous medicines, intituled Pulvis Benedictus, &amp;c. : also diagnostick signs of worms and signs of health in children, with the various causes of vermiculars / by R.C., chymist ...</title>
+                  <author>R. C. (R. Clark)</author>
+               </titleStmt>
+               <extent>20, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Wilkins for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: R. Clark.</note>
+                  <note>Imperfect: torn, stained, with print show-through and loss of print. Bracketed letters torn from filmed copy.</note>
+                  <note>Reproduction of original in the Aberdeen University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Helminths --  England.</term>
+               <term>Worms as carriers of disease.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108076:1"/>
+            <p>VERMICULARS DESTROYED, WITH AN <hi>Hiſtorical Account</hi> OF WORMS: Collected from the beſt Authors, As well Ancient as Modern.</p>
+            <p>AND EXPE<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>IMENTS <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>OVED By that Admirable Invention of the Microſcope; WITH Directions for the taking thoſe moſt Famous Medicines, Entituled, <hi>Pulvis Benedictus,</hi> &amp;c.</p>
+            <p>ALSO Diagnoſtick Signs of <hi>WORMS,</hi> and Signs of Health in Children, with the various Cauſes of <hi>Vermiculars.</hi>
+            </p>
+            <p>By <hi>R. C. Chymiſt,</hi> Living at the <hi>Golden Ball</hi> in <hi>Devonſhire-Street,</hi> near the Square, without <hi>Biſhopſgate.</hi> 1690.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Wilkins,</hi> for the Author.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:108076:2"/>
+            <pb n="3" facs="tcp:108076:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>I</hi> Doubt not but this ſmall Treatiſe may be Acceptable to moſt, not being built on Blind and Erronious Fallaces, its whole matter ge<g ref="char:EOLhyphen"/>nerally tending to the Good of all Mankind, as it hath been the Care of ſo many Worthy and Profound Authors to Record. Yet I do pre<g ref="char:EOLhyphen"/>ſume it may be ill reſented by ſome, to whoſe ap<g ref="char:EOLhyphen"/>prehenſions, it may be Miſterious, and it is more trouble to Convince one unbelieving Igno<g ref="char:EOLhyphen"/>ramous, than a hundred Wiſe Men: For Igno<g ref="char:EOLhyphen"/>rance is not only Obſtinate, but proud of its Imperfection, and under that <g ref="char:V">Ʋ</g>mbrage grovels on the Earth; like Froward Children, who, when they fall, will neither riſe themſelves, nor let others help them: Therefore we ſhall let them remain Priſoners in their own ſtate of Folly, and deſire you to Read, when time will permit ſome ſpare Moments, that you may ſee what ſtrange and direful Enemies theſe Depo<g ref="char:EOLhyphen"/>pulating
+<pb n="4" facs="tcp:108076:3"/>
+               <hi>Virmiculars</hi> are, not only to Human Bodies, but all Sublunary things. This is the Rock I would have you ſhun; and the way to Deſtroy them, or their Corrupt, Groſs, Viſcid Matter, if not Generated, is to do it before they are able to engage us, and commence Diſtempers in us. For as Health is the Fruition and Treaſure of Life, ſo Sickneſs is the Dreadful Herauld of Death. And Diſeaſes are like a Fire, which the more it is kindled is the harder to be quenched, and when they are above the reach of Cure, Medicines are of no more <g ref="char:V">Ʋ</g>ſe to us, than Wings to a Bird that is caught by the Feet. Therefore Extinguiſh theſe Fatal Principles of Diſeaſes in time, and ſtand not ſtill a dull Spectator, while Nature is worſted on unequal Terms.</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> R. Clark.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="5" facs="tcp:108076:3"/>
+            <head>Vermiculars DESTROYED: WITH AN HISTORICAL ACCOUNT OF WORMS.</head>
+            <p>I <hi>Shall begin this ſmall Treatiſe, in which I am Obliged to be as Brief as I can; Nameing my Author</hi> William Rame<g ref="char:EOLhyphen"/>ſey, <hi>Phyſitian in Ordinary to His Majeſty</hi> Charles <hi>the Second; and likewiſe his Author as he has done, I ſhall men<g ref="char:EOLhyphen"/>tion. It would be ſuperfluous to ſpend any time on the Common</hi> WORMS <hi>by reaſon they are ſo well known, tho' they are as Pernicious and Dangerous as the reſt: Their Names are,</hi> Lati, Aſcarides, Teretes, Cucurbitini, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Rondeletius,</hi> Writes of a Woman that Expelled a <hi>Worm</hi> Two Cubits in length, like to the <hi>Worm</hi> called <hi>Scolopendra,</hi> having no Eyes, or other Part diſtinct; the which he ſays (by reaſon of its Rarity) he dried and kept a long time.</p>
+            <p>
+               <pb n="6" facs="tcp:108076:4"/>
+               <hi>Zacutus Lucitanius,</hi> Tells us of a Patient of his, who voided a Black Dead <hi>Worm,</hi> of a pretty length, and thick<g ref="char:EOLhyphen"/>neſs, with the Body all over Hairy, a ſmall Head, and a forked Tail.</p>
+            <p>
+               <hi>Benivenius,</hi> Tells us of a <hi>Worm</hi> one Vomited, with a Red Head, and covered with Hair like a <hi>Caterpiller,</hi> having Four Feet, and a Tail like a Half-Moon.</p>
+            <p>
+               <hi>Marcellus Donatus,</hi> Mentions one that Vomited a Red <hi>Worm</hi> of the length of a Man's Hand; having two Crooked Horns, and a Hundred Feet; it is called, <hi>Centum Pedes.</hi>
+            </p>
+            <p>
+               <hi>Foreſtus,</hi> Hath a Patient affected with a Black <hi>Worm</hi> in the ſhape of a Weezle; his <hi>Cranium</hi> being opened, and the <hi>Worm</hi> taken away, which was on the <hi>Dura Mater,</hi> he Re<g ref="char:EOLhyphen"/>covered.</p>
+            <p>
+               <hi>Reverius,</hi> Writes of one that Evacuated many Black <hi>Worms,</hi> of the bigneſs and length of a common or ordi<g ref="char:EOLhyphen"/>nary Needle, horned and friable, ſo that one might crum<g ref="char:EOLhyphen"/>ble them to Powder between ones Fingers.</p>
+            <p>
+               <hi>Valeſius de Taranta,</hi> Says, he ſaw ſome <hi>Worms</hi> that came from a Young Man in the form of Pine-ſeeds, only bigger. Alſo the ſame afore-quoted <hi>Foreſtus,</hi> tells us of one, from the Teſtimony of <hi>Henricus a Bray,</hi> who Vomited a <hi>Worm</hi> like unto a <hi>Palmer Worm.</hi>
+            </p>
+            <p>
+               <hi>Widrus,</hi> Writes of a Fellow that Voided a <hi>Worm</hi> Eight Foot long, with a kind of a Horned Mouth, not unlike the Bill of a Duck.</p>
+            <p>
+               <hi>Jabucinus,</hi> Speaks of one that Expelled a Black <hi>Worm</hi> Five Foot long, Hairy, and of the thickneſs of a Reed.</p>
+            <p>
+               <hi>Mortuas,</hi> Records one moleſted with the <hi>Cholick,</hi> to ject a green Four Footed <hi>Worm,</hi> like to a <hi>Lizard.</hi>
+            </p>
+            <p>
+               <hi>Geſner,</hi> tells us of one that Voided by Stool, a <hi>Worm</hi> like to a Beetle, Black, long Feet, and Horns.</p>
+            <p>
+               <hi>Johannes Hebenſtreit,</hi> Tells of a white <hi>Worm</hi> with a ſharp and Horny Noſe, found in a Perſon.</p>
+            <p>
+               <hi>Foreſtus,</hi> Speaks of a Wench who Vomited two Beetle-like <hi>Worms</hi> as long as Mans Finger, with two Horns, each of them on their Heads, and tending to Reddiſh Colour.</p>
+            <figure>
+               <p>
+                  <hi>Scolopendra:</hi>
+               </p>
+               <p>
+                  <hi>Eruca.</hi>
+               </p>
+               <p>
+                  <hi>Scaraseus.</hi>
+               </p>
+               <p>
+                  <hi>Centumpedes</hi>
+               </p>
+               <p>
+                  <hi>Lacertus.</hi>
+               </p>
+               <p>
+                  <hi>Qainque Pedalis.</hi>
+               </p>
+               <p>
+                  <hi>Cornu roſtrum.</hi>
+               </p>
+               <p>
+                  <hi>Roſtrum Anatis Octopedalis</hi>
+               </p>
+               <figDesc>depictions of worms</figDesc>
+            </figure>
+            <p>Cut by <hi>J. Gardiner.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:108076:5"/>
+               <hi>But in this kind Examples are Infinite, and the Brevity we deſign, compells us to leave the Worthy</hi> Rameſey <hi>at pre<g ref="char:EOLhyphen"/>ſent, on whom hereafter I ſhall more enlarge, and proceed to an<g ref="char:EOLhyphen"/>other Author, who tells us, that</hi> Worms <hi>are, and may be ge<g ref="char:EOLhyphen"/>nerated of ſome Bigneſs, and of ſeveral Shapes, not only in the Bowels, but every other part of the Body, which all Authors of Note will not deny, and that they frequently appear in</hi> Agues, Fevers, <hi>and all manner of</hi> Diſeaſes, <hi>by reaſon Humours are more Vitiated, and a more Poiſonous, Putredinous Diſpoſition, or Corruption,</hi>
+               <note place="margin">M.N. <hi>Med.</hi> Londinenſis.</note> 
+               <hi>is introduced into Mens Bodies, than was wont to be in former time. He tells us, in the Year</hi> 1662, <hi>a new ſort of a</hi> Quartan Ague <hi>reigned about</hi> London, <hi>and other parts, which had in it all the Tokens of</hi> Malignity; <hi>and from moſt, that he himſelf had in Cure, he brought away abundance of</hi> Worms, <hi>and then they preſently mended.</hi>
+            </p>
+            <p>
+               <hi>The like courſe he took with that continual</hi> Fever, <hi>which raged in the Country</hi> 1661, <hi>and procured plentiful excreſions of</hi> Worms <hi>out of the Bodies of</hi> Children <hi>to Perſons of Seventy Years of Age; and that Year he found</hi> Worms <hi>that made their own way into the World,</hi>
+               <note place="margin">Worms that eat through the Bowels and Sides of People.</note> 
+               <hi>through the Bowels and Sides of the perſons that bred them, and this without Damage, nothing but a little freſh Butter, being uſed to the Orifice to make all whole again.</hi>
+            </p>
+            <p>
+               <hi>Further, he tells us, let the</hi> Diſeaſe <hi>be what it will, he appli<g ref="char:EOLhyphen"/>ed ſuch</hi> Medicines <hi>as would carry off the</hi> Wormatick Matter, <hi>if there ſhould be no</hi> Worms <hi>to kill: This he found, tho' the</hi> Mat<g ref="char:EOLhyphen"/>ter <hi>do not ſometimes breed the</hi> Animal, <hi>yet as long as the</hi> Wor<g ref="char:EOLhyphen"/>matick Humour, <hi>or</hi> Matter <hi>remains in being, within the Body, ſo long the Body Languiſheth, and ſometimes will have all the Symptoms that attend</hi> Worms <hi>actually exiſtent; and no Cure of the main Diſeaſe, with which 'tis complicated, will go forward, till that Verminious Humour, or Matter be Extinguiſhed, or Removed.</hi>
+            </p>
+            <p>
+               <hi>Hollerius,</hi> Writes of a Man he Diſſected, and found a multitude of <hi>Worms</hi> in his Liver, which were the cauſe of his unknown Diſeaſe. But we have Examples of <hi>Worms,</hi> not only in the Principal parts of Mans Body, as the <hi>Heart, Liver, Brain, Lungs, Reins, Spleen, Bladder, Sto<g ref="char:EOLhyphen"/>mach,</hi> &amp;c. But in theſe Channels of the Blood, the Veins
+<pb n="9" facs="tcp:108076:5"/>
+and Arteries; but few do imagin, that we carry about with us an Off-ſpring of Animals, begotten out of our own Blood and Bowels.</p>
+            <p>The aforeſaid Author, ſaith he hath with his<note n="*" place="margin">An Inſtru<g ref="char:EOLhyphen"/>ment ſo made, and fitted with Glaſſes at each end, as the ſmalleſt thing will be preſen<g ref="char:EOLhyphen"/>ted by it in ſo conſiderable a bigneſs that the Frame and Compoſure of its parts may be diſcerned.</note> 
+               <hi>MICRO<g ref="char:EOLhyphen"/>SCOPE,</hi> examined the Blood of Men Sick of Fevers, which has ſatisfied him over and over of the Buſineſs; for viewing the Blood an hour or two after opening of Veins, I have <hi>(ſaith he)</hi> found it full of <hi>Worms,</hi> that it made me almoſt Aſtoniſhed; ſo that we may with <hi>Job, I ſaid to Cor<g ref="char:EOLhyphen"/>ruption thou art my Father,</hi> and to the <hi>Worm, thou art my Mo<g ref="char:EOLhyphen"/>ther, and my Siſter.</hi>
+            </p>
+            <p>
+               <hi>Kircherus,</hi> a Famous Man, Living at <hi>Rome,</hi> Writ a moſt Learned Piece in the Year 1658. The Subject of which was, <hi>That there are a ſort of inviſible</hi> Worms, <hi>or</hi> Vermiculars, <hi>which were diſcovered in the laſt Plague at</hi> Naples, <hi>and at</hi> Rome, <hi>by the help of a</hi> Microſcope. And he ſaith, <hi>theſe</hi> Worms <hi>are ſo fine, that they inſinuate themſelves, not only into</hi> Cloths, Ropes, <hi>and</hi> Linnen, <hi>but into other Bodies leſs Porous, as</hi> Cork, Wood, Bones; <hi>yea, into thoſe which are leaſt Porous and moſt Compact, as</hi> Mettals, Money, <hi>&amp;c.</hi> This he in ano<g ref="char:EOLhyphen"/>ther place tells us, <hi>They had daily experience in the Great</hi> Plague <hi>Time, where no Money was Receiv'd in payment, but was firſt well ſoaked and waſhed in Vinegar, if it came from an Infe<g ref="char:EOLhyphen"/>cted place.</hi>
+            </p>
+            <p>
+               <hi>Cardan</hi> ſaith, The great Plague that fell out in his time at <hi>Millain,</hi> which Unpeopled that City, not only the Air being filled with them, but the very Duſt of the Earth Animated into ſuch kind of <hi>Virmiculars.</hi>
+            </p>
+            <p>
+               <hi>Georgius Agricola</hi> Writes, That in his time, a great Plague came by Eating of Fruit, ſo that the Eaters Died in few Days after, which Fruit ſwarmed with multitudes of Indiſcernable <hi>Worms;</hi> which were no more than the Ani<g ref="char:EOLhyphen"/>mated <hi>Corpuſcles,</hi> or <hi>Particles,</hi> flowing from Contagious Carcaſes, and faſtning upon Trees and Plants, being car<g ref="char:EOLhyphen"/>ried through the Air: But theſe Indiſcernable <hi>V<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>niculars</hi> had been ſtill hid from our Eyes, had it not been for that Rare Invention of the <hi>Microſcope.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:108076:6"/>We ſee that the Earth, out of I know not what Putredi<g ref="char:EOLhyphen"/>nous Matter in its own Bowels, doth produce not only In<g ref="char:EOLhyphen"/>ſects of all ſorts, but alſo various Monſters of Venemous Creatures, as <hi>Serpents, Toads, Dragons</hi> in Dens and Caves of Mountains, which have their Original from Moiſture, and a various mixture of Virulent Drags and Slime; and the like are produced out of Ponds, Lakes, and Marſhes, by the Heat of the Ambient Air, working upon a Conflux of the Terreſtial Parts, Yea, Water it Self kept in a cloſe Veſſel, and expoſed to the <hi>Sun,</hi> is quickly animated into <hi>Worms,</hi> as is ſeen by daily Experience, both in Voyages at Sea, and within the Walls of our own private Houſes.</p>
+            <p>
+               <note place="margin">At <hi>Beverly</hi> in <hi>Yorkſhire</hi> on the 28th. of <hi>Auguſt 1660.</hi> there was ſeen in the Maket<g ref="char:EOLhyphen"/>place, and other places, innumer<g ref="char:EOLhyphen"/>able company of young Frogs and Toads the people not knowing from whence they came, but are ſuppoſed to come out of the Air in the night by reaſon the tops of their Houſes were covered with them. <hi>Prodigies,</hi> pag. <hi>41.</hi>
+               </note>Moreover, Water Elevated by Vapour, Air, Hail, Snow, are full of <hi>Worms. Pliny,</hi> ſaith ſo of Snow, in his Book <hi>de Divinis Nat. Charact.</hi> And <hi>Cornelius Gemma</hi> of Hail, In <hi>Lib. de Arte Metallica.</hi> As much is ſaid of Air by <hi>Geor<g ref="char:EOLhyphen"/>gious Agricola;</hi> and the ſudden Generation of <hi>Worms, Frogs,</hi> and <hi>Inſects,</hi> (which have come down with Rain upon the Earth) doth confirm it. There is alſo ſcarce a Stick, or Fruit, or any other mixt Body, which doth not produce ſome Animal which diſpoſeth that to Deſtruction which Begat it, according to that of <hi>Lecretius.</hi>
+            </p>
+            <q>
+               <l>—Obnoxia Cuncta putrori</l>
+               <l>Corpora, putrores Inſecta Animata ſequuntur.</l>
+            </q>
+            <p>And that the <hi>Reader</hi> may more fully behold the admi<g ref="char:EOLhyphen"/>rable Power of Nature, what hath hitherto been ſaid, may be manifeſted by Irrefragable Experiments, as fol<g ref="char:EOLhyphen"/>loweth,</p>
+            <p>
+               <pb n="11" facs="tcp:108076:6"/>
+               <label>Experiment <hi>I.</hi>
+               </label>
+TAke a piece of Fleſh, and expoſe it by Night to the moiſture of the <hi>Moon,</hi> till early the next morning, then view it diligently with a <hi>Microſcope,</hi> and you ſhall find, that all the Putrefaction, contracted by the <hi>Moon,</hi> is de<g ref="char:EOLhyphen"/>generated into innumerable <hi>Vermiculars,</hi> differing in big<g ref="char:EOLhyphen"/>neſs; but when you remove the <hi>Microſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe,</hi> you cannot diſcern any by the Eye alone, unleſs perhaps ſome few be among them that are grown to a ſenſible magnitude. You may try the ſame in Cheeſe, Milk, Vinegar, and the like Bodies abounding with Putrefaction; yet think not 'tis to be done by any ſlight <hi>Microſcope,</hi> but one made by a Skil<g ref="char:EOLhyphen"/>ful Hand.</p>
+            <p>
+               <label>Experience <hi>II.</hi>
+               </label>
+IF you take a Serpent cut into ſmall pieces, and putting it into Rain-water, expoſe it for ſome Days to the <hi>Sun,</hi> then Bury it in the Earth for the ſpace of a Day and a Night, and afterward taking out the Parts grown flaccid with Putrefaction, and examine them with a <hi>Microſcope,</hi> you will ſee all that's putrified ſwarming with little ſpring<g ref="char:EOLhyphen"/>ing Serpents, which Experiment may be performed in all kind of Serpents; and ſometimes in dead Putrified Ser<g ref="char:EOLhyphen"/>pents you will find ſome of them diſcernable by the Eye alone. <hi>The Putrifaction of Serpents will not produce Worms as other dead fleſh doth, unleſs they be kill'd by Lightning, that purges 'em of their poyſon, and their corrupt fleſh will be anima<g ref="char:EOLhyphen"/>ted into Worms of ſtrange and various ſhapes.</hi>
+            </p>
+            <p>
+               <label>Experience <hi>III.</hi>
+               </label>
+               <hi>MAtthiolus Euchſius,</hi> and many other Herbaliſts, de<g ref="char:EOLhyphen"/>clare, That Sage unwaſht is very hurtful to ſuch as Eat it: But I have diſcovered the Cauſe, examining more
+<pb n="12" facs="tcp:108076:7"/>
+curiouſly the Conſtitution of this Plant, by the help of a <hi>Microſcope;</hi> at length I obſerved in thoſe Leaves which were more rough than the reſt, that their whole Superfi<g ref="char:EOLhyphen"/>cies was covered with ſomewhat like a Spider's Web, with<g ref="char:EOLhyphen"/>in which appeared Animals exceeding ſmall, and which were perpetually at work therein, and certain round things as it were Eggs, were ſpread upon the Superficies, which as it is doubtleſs a certain Breed, or Spawn, of that ſort of petit Animals, ſo by their Virulent Humour they may do a Man a deal of miſchief; but wipe a Leaf with your Finger, or waſh it, and they will Diſappear. From whence I collect the true Cauſe of the Pernicious Quality of Sage that is not waſhed.</p>
+            <p>
+               <label>Experiment <hi>IV.</hi>
+               </label>
+IF with the <hi>Microſcope</hi> you examine the Powder of any Rotten Wood, you will find a prodigious number of <hi>Vermiculars,</hi> ſome armed with Horns, ſome ſet out as it were with Wings, and others not unlike thoſe <hi>Worms</hi> that have many Feet; their Eyes alſo you may diſcern like black Points, and that they have a long Snout; ſo that it appears, <hi>Almighty God</hi> hath manifeſted his own wonderful Power, not only in the greateſt Bodies in the World, but in the ſmalleſt, even in thoſe Animals which are not to be diſcerned by the ſharpeſt ſight, having furniſhed every one of them with ſuch Members, as without which they could neither move themſelves, nor exerciſe any Vital Actions. What a little Liver, little Stomach, little Heart, little Nerves, and Griſtles, muſt there go to the making of ſuch inviſible <hi>Corpuſcles?</hi> The leaſt Creature we can ſee without the help of Art, is a Mite, it reſembling a little white <hi>Punctum,</hi> or Point, but view it with a <hi>Microſcope,</hi> and it appears to us a rough hairy Creature like a Bear.</p>
+            <p>
+               <pb n="13" facs="tcp:108076:7"/>
+               <label>Experiment <hi>V.</hi>
+               </label>
+TAke a Glaſs-Vial half fill'd with Water, into which ſprinkle ſome Duſt of the Earth, which will preſent<g ref="char:EOLhyphen"/>ly ſink to the bottom; and ſo expoſing the Vial to the <hi>Sun</hi> in Summer-time for ſome Days, let it reſt without ſhaking until the Water begin to Putrifie; then obſerve the bottom of the Vial, and there will ariſe out of the ſettling of the Water, or injected Duſt, certain little round Bubbles, eve<g ref="char:EOLhyphen"/>ry one of which, in the following Days, will be animated into little <hi>Worms,</hi> which will ſtrangely frisk and ſport in the Water; and being come to maturity, at length they betake themſelves to the top of the Water, and there be<g ref="char:EOLhyphen"/>ing in great Numbers transformed into winged Gnats, they commit themſelves to the Air, and become as troubleſome to Men and Beaſts in the Summer, eſpecially by Night, as others uſe to be.</p>
+            <p>
+               <label>Experiment <hi>VI.</hi>
+               </label>
+DR. <hi>Hauptman,</hi> a <hi>German</hi> Phyſitian, and <hi>Kircherus,</hi> gives us an Account of that terrible Diſeaſe the <hi>Purples,</hi> which frequently befalls Women within the Month, after Child-Delivery, and examining the matter with a <hi>Micro<g ref="char:EOLhyphen"/>ſcope,</hi> they found thoſe petty <hi>Virmiculars</hi> ſpread upon the Superficies in the rough part of the Skin which is in that <hi>Diſeaſe,</hi> by which means you have here an infallible Ex<g ref="char:EOLhyphen"/>periment touching the original of that moſt malignant Di<g ref="char:EOLhyphen"/>ſeaſe the <hi>Purples:</hi> Which is further confirmed by this, that after the uſing all the <hi>Bez<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adicks, Diaphoreticks,</hi> and Cordials commonly ſo called, without any ſucceſs, they betook themſelves to the uſe of ſuch Remedies as have the power to kill and mortifie the putrid Seminaries of <hi>Worms,</hi> by mingling them with ſuch Remedies as were proper in the caſe.</p>
+            <p>
+               <pb n="14" facs="tcp:108076:8"/>
+               <label>Experiment <hi>VII.</hi>
+               </label>
+EVery Living Creature out of its own Putrefaction pro<g ref="char:EOLhyphen"/>duceth ſome kind of Animals agreeable to its own Na<g ref="char:EOLhyphen"/>ture, and differing from all other, which I have found in ſeveral ſorts of Herbs, and may be ſeen by Corn Anima<g ref="char:EOLhyphen"/>ted into winged Animals: The Carcaſe of an Ox becomes animated into <hi>Bees;</hi> Horſes generate <hi>Waſps</hi> and <hi>Sca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abees;</hi> Man's Rotten Carcaſe becomes a Seminary of <hi>Worms.</hi> Na<g ref="char:EOLhyphen"/>ture is ſo Solicitous about promoting the Generation of things, that whereſoever ſhe finds a Diſpoſition, that is, Heat with a due proportion of Moiſture, there ſhe imme<g ref="char:EOLhyphen"/>diately thruſts forth an Animal. I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould here produce in<g ref="char:EOLhyphen"/>numerable Inſtances from all ſort <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Living Things; but becauſe theſe are enough for the proof of what I intend, I ſhall no longer inſiſt on them.</p>
+            <p>
+               <hi>I conceive it may not be amiſs if now I mention ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me</hi> Worms <hi>lately deſtroyed by</hi> Pulvis Benedictus, <hi>&amp;c. In which I ſhall be very ſhort, omitting many ſtrange and remarkable Cures.</hi>
+            </p>
+            <p>
+               <hi>A Woman at the</hi> Weavers-Arms <hi>in</hi> White-Croſs Street, <hi>languiſhing a long time under a Conſumptive State, and being brought to keep her Bed a little before ſhe died, had a deſire to take ſome of my Powder, the great Compoſition. The firſt Doſe brought away the Worm</hi>
+               <note n="*" place="margin">This Worm had multitudes of young ones in every Joint.</note> Latus <hi>with abundance of</hi> Slime <hi>and</hi> Vermiculous Matter: <hi>It was of an Orange Colour, and Twelve Foot in length. After this ſhe mended a little, but her Vitals being ſpent and waſted, ſhe was not able to withſtand the Con<g ref="char:EOLhyphen"/>quering Arm of Death.</hi>
+            </p>
+            <p>
+               <hi>A Perſon of Quality, who had been lately Cured of the French</hi> Luec, <hi>had a moſt intollerable Pain in his Stomach, and a Tume<g ref="char:EOLhyphen"/>faction in the Region of his Liver, for which he could have no Redreſs, till taking ſome of</hi> Pulvis Benedictus, <hi>the great Compoſition, he voided multitudes of</hi> Worms, <hi>ſmall, flat, and
+<pb n="15" facs="tcp:108076:8"/>
+ſhaped like a Flounder, of a dark Rediſh Colour: You may, if you will obſerve, often ſee</hi> Worms <hi>juſt like them in the Liver of a Sheep. The Perſon hath been ever ſince free from all Pains, and in good Health.</hi>
+            </p>
+            <p>
+               <hi>A Gentlemans Daughter about Four Years of Age, that had a</hi> Fever <hi>and an</hi> Ague <hi>for two or three Months which had brought her to a very low Ebb: Her Father to obtain her Health, ran all the round of Phyſicians and Remedies; till being adviſed to my Powder, ſhe took the Leſſer Compoſition, the firſt, ſecond, third and fourth Doſe brought away abundance of Slime, and Wormatick Matter; at the fifth ſhe voided a little Bag like a Bladder, which was full of</hi> Worms <hi>of a dark brown C lour, thick in the middle, and ſharp at both ends. The Child immediately Recovered, and is now very Healthful and Lively.</hi>
+            </p>
+            <p>
+               <hi>A Lady whoſe Son was about two years of Age; the Child was moleſted with</hi> Aſthma, <hi>and alſo a violent Inflamation in his Reins; for which he had taken ſo many Medicines, that when my Powder was given him, they could by no means make him take it. I then applied my</hi> Anti-Verminous Oyl, <hi>and</hi> Plai<g ref="char:EOLhyphen"/>ſter, <hi>and the third day the Child Evacuated Eight and Twenty</hi> Worms; <hi>they were flat, white as Snow, and an Inch in length, havin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a vent on one ſide, theſe</hi> Worms <hi>when they pleaſed, would extend themſelves a Foot in length, and transform themſelves into the ſhape of a Plaice, or Flounder, expoſed to the Air they con<g ref="char:EOLhyphen"/>ſume in a trice, but in Water they will keep long; I have ſome by me now.</hi>
+            </p>
+            <p>
+               <hi>Mrs.</hi> Dean, <hi>Living by the</hi> Artichoke <hi>in</hi> Southwark, <hi>near the</hi> Bridge, <hi>by taking of my Medicines, voided multitudes of</hi> Worms, <hi>and of above Twenty ſeveral Shapes, two of the</hi> Worms <hi>called</hi> Latus, <hi>each being ſix or ſeven Yards in length: The</hi> Worm Teretes, <hi>which was as Red as Scarlet;</hi> Worms <hi>of a darkiſh Colour, having Fins, like ſmall Fiſh; a</hi> Worm <hi>about three Inches long, having ſix feet on a ſide;</hi> Worms <hi>with Horns like Snails; and others Hairy; a</hi> Worm <hi>much like a Muſſel when it is boil'd, with ſmall feet on each ſide; a</hi> Worm <hi>about four In<g ref="char:EOLhyphen"/>ches long, with a double forked Tail; She alſo voided pieces of ſe<g ref="char:EOLhyphen"/>veral ſtrange</hi> Worms, <hi>and perfest Claws like the feet of Moles,
+<pb n="16" facs="tcp:108076:9"/>
+with ſtony</hi> Wormatick Matter, <hi>which, when broke, were full of ſmall</hi> Worms, <hi>no thicker than a Hair.</hi>
+            </p>
+            <p>And I hope all Judicious People will weigh the dangerous conſequence of theſe Deſtructive Vermin when we ſee how many Creatures, even by Inſtinct of Nature, make to ſuch Remedies as are proper in this caſe. Deer feed on Serpents to kill their <hi>VVorms,</hi> by which, 'tis ſaid they renew their Age.</p>
+            <p>
+               <note place="margin">You may ſee in <hi>Bleeks,</hi> a Fiſh that frisks and plays on the Wa<g ref="char:EOLhyphen"/>ter, inſomuch as ſometimes they leap into Boats, a Worm four times their own length.</note>
+               <hi>Fiſh,</hi> When moleſted with <hi>Vermiculars,</hi> make to <hi>Caroli<g ref="char:EOLhyphen"/>na,</hi> &amp;c. And all ſorts of Wild-Fowl to the Sea.</p>
+            <p>
+               <hi>Fauconers,</hi> uſe the Dung of Sparrows to kill <hi>VVorms</hi> in their Hawks, and <hi>Pulvis Buſo</hi> to kill 'em in their Feathers.</p>
+            <p>So <hi>VVorms</hi> on Plants are deſtroyed by the Fumes of <hi>Sul<g ref="char:EOLhyphen"/>phur, Garlick, Galbanum, Goats Claws,</hi> &amp;c.</p>
+            <p>Whoever will give themſelves the trouble of opening a mad Dog will find him full of <hi>VVorms,</hi> which is the occa<g ref="char:EOLhyphen"/>ſion of his madneſs, and are bred by eating corrupted meat, eſpecially in the Dog-Days. Theſe <hi>VVorms</hi> take away their Appetites,<note place="margin">Worms the cauſe of Madneſs in Doggs.</note> and makes them fear the water. They wander about, hang down the Tail, bark hoarſly, foam at the mouth, and look angerly. They are cured by giving them Horſe-Aloes, and Common-Salt mixed with Water, give it in a Drenching-Horn, and in half an hour you will ſee the Vermin come up, and the Dog be well.</p>
+            <p>Thus man finds out Remedies to deſtroy them in Birds, and on Plants, and ſhall he forget himſelf! This is a nar<g ref="char:EOLhyphen"/>row and a fruitleſs Principle, Umbraided by Neglect and Folly!</p>
+            <p>
+               <note place="margin">Our Liv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s di<g ref="char:EOLhyphen"/>vided into Se<g ref="char:EOLhyphen"/>ven Ages.</note>
+               <hi>Rhodeginus</hi> divides our Lives into ſeven Ages, alluding to the ſeven Planets; we may fitly compare our Infancy with the <hi>Moon;</hi> in which we ſeem only to live and grow as Plants; and abounds with Humours.</p>
+            <p>The ſecond Age to <hi>Mercury;</hi> wherein we are under Tuition, Taught and Inſtructed.</p>
+            <p>The third to <hi>Venus;</hi> the time of Pleaſure, Amorous, Love-ſick-Toys, Vanity, <hi>&amp;c.</hi>
+            </p>
+            <p>The fourth to the <hi>Sun;</hi> the Summer-time of our Lives, Strong, Beautiful, and flouriſhing.</p>
+            <p>
+               <pb n="17" facs="tcp:108076:9"/>The Fifth to <hi>Mars;</hi> in which we ſeek Honour, Victory, and have Ambitious Ends, deſigning to accompliſh ſome<g ref="char:EOLhyphen"/>what Praiſe-worthy, or act what may redown'd to our Glory.</p>
+            <p>The Sixth to <hi>Jupiter;</hi> where we judge of our ſelves and others, of former Actions, and take an account of Times, arrive to the perfection of our Judgments, Underſtanding, Reaſon, <hi>&amp;c.</hi>
+            </p>
+            <p>The Seventh and Laſt to <hi>Saturn;</hi> the Winter of our Days, wherein our Spirits, Lives and Souls, are obfuſca<g ref="char:EOLhyphen"/>ted, overcaſt and clouded, all fraught with a multitude of Cares, Sorrows, Fears and Anxieties, a Burthen to our ſelves, a Trouble to others, over-ſpread with innumera<g ref="char:EOLhyphen"/>ble Aches, Pains, Infirmities and Weakneſs, fit for no Society nor Imployment; but only to keep our Heirs from inheriting our Poſſeſſions; which by how much the grea<g ref="char:EOLhyphen"/>ter they are, by ſo much the more is our End and Diſſolu<g ref="char:EOLhyphen"/>tion hoped and wiſhed for, even by thoſe which drew Life and Being from us; which is Vanity in the abſtract, and a great Evil, if not the greateſt; and this the End of all our Labours under the <hi>Sun;</hi> and in all theſe Ages, we are, or may be Maſcerated with <hi>Worms.</hi> As to the firſt ſix, we have Examples daily, therefore I ſhall only ſpeak of the laſt.</p>
+            <p>
+               <hi>Valeſcus de Taranta</hi> atteſts he often had ſeen Old People have <hi>Worms.</hi> And <hi>Gabucinus</hi> mentions an ancient Man,<note place="margin">The laſt Age Macerated with Worms.</note> who evacuated a Monſtrous Black <hi>Worm.</hi>
+            </p>
+            <p>
+               <hi>Braſavorius</hi> reports of a Patient of his, a Man of above Fourſcore Years of Age, which voided above Five Hun<g ref="char:EOLhyphen"/>dred <hi>Worms.</hi> And Doctor <hi>Rameſey</hi> had a Patient within Two Months of Fourſcore, a Woman, that voided ſuch a company of <hi>Worms</hi> by a Medicine he gave her, that they were innumerable, and adjudged to be ſome thouſands, of divers ſorts and magnitude, eſpecia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly <hi>Teretes</hi> and <hi>Aſca<g ref="char:EOLhyphen"/>rides.</hi>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:108076:10"/>And I my ſelf have had ſeveral Patients of above Three<g ref="char:EOLhyphen"/>ſcore, that have voided, not only the Common <hi>Worms,</hi> but <hi>Vermiculars</hi> of ſtrange and various Shapes.</p>
+            <list>
+               <head>Various Cauſes of <hi>Worms.</hi>
+               </head>
+               <item>SUpernatural cauſes.</item>
+               <item>
+                  <hi>Supernatural cauſes are from God and his Angels The Devil and his Imps, Magi<g ref="char:EOLhyphen"/>cians, Conjurers, Witches, and Wizards.</hi>
+               </item>
+               <item>Univerſal Natural Cauſes.</item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Natural Cauſes are from Heaven, Stars and Pla<g ref="char:EOLhyphen"/>nets, which ſome deny, who think the Stars were made only to adorn the Heavens, and Fools to gaze on.</hi>
+               </item>
+               <item>Parents a cauſe.</item>
+               <item>Air a cauſe.</item>
+               <item>Meat a cauſe.</item>
+               <item>Drink a cauſe.</item>
+               <item>
+                  <hi>Plethora</hi> a cauſe, which is a redundancy of fulneſs of Blood and other Humors in the Body.</item>
+               <item>Too much ſleep a cauſe.</item>
+               <item>Preturbation a cauſe.</item>
+               <item>Over-watching a cauſe.</item>
+               <item>Too much reſt a cauſe.</item>
+               <item>Imagination a cauſe.</item>
+               <item>Sorrow a cauſe.</item>
+               <item>Anger a cauſe.</item>
+               <item>Fear a cauſe.</item>
+               <item>
+                  <hi>Cachochymia</hi> a cauſe, which is an Exceſs in either Quali<g ref="char:EOLhyphen"/>ty or Quantity of Natural or Preternatural Excre<g ref="char:EOLhyphen"/>mentitious Humours.</item>
+               <item>A bad Nurſe a cauſe.</item>
+               <item>Natural and Preternatural Flegm a cauſe.</item>
+               <item>Cholar a cauſe.</item>
+               <item>Melancholly a cauſe.</item>
+               <item>
+                  <hi>Serum</hi> a cauſe, which is a wateriſh thin Humour proceeding from the other Humours.
+<list>
+                     <item>
+                        <hi>Sublata Cauſa.</hi>
+                     </item>
+                     <item>
+                        <hi>Tollitur effectus.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>I have met with ſome Oppoſition as to <hi>Supernatural Cau<g ref="char:EOLhyphen"/>ſes,</hi> but whether there be, or be not, I ſhall not diſpute it here; however <hi>Chriſtians</hi> ought to believe it from the Te<g ref="char:EOLhyphen"/>ſtimony of St. <hi>Luke, Acts</hi> the 12. and the 23. <hi>And immedi<g ref="char:EOLhyphen"/>ately the Angel of the Lord ſmote him, becauſe he gave not God the Glory<g ref="char:punc">▪</g> and he was eaten of</hi> Worms, <hi>and gave up the Ghoſt;</hi> So <hi>Job</hi> complains, <hi>That his Fleſh was cloathed with</hi> Worms, <hi>Job</hi> 7.5.</p>
+            <p>
+               <pb n="19" facs="tcp:108076:10"/>And <hi>Cornelius Gemma</hi> gives us an Example of a Wench, who was as if ſhe had been poſſeſſed of the Devil, and at ſome times would not be held by three Men, (ſuch were her ſtrong Convulſive Paſſions) who Evacuated by Vomit, Twenty Four Pounds of Stuff of all Colours, twice a day for Fourteen days together; and afterwards great Balls of Hair, pieces of Wood, Pidgeons Dung, Parchment, Coals, <hi>&amp;c.</hi> and after all this, two pound of pure Blood, and then again, Coals and Stones, ſtrange fits of Laugh<g ref="char:EOLhyphen"/>ing, Weeping and Extaſies, and at length voided a live Worm by Stool, like unto an Eel, of a Foot and a half long, the which he ſays, he not only ſaw, but felt: and this I ſuppoſe ſprung from a <hi>Supernatural Cauſe,</hi> which ſometimes deſtroys Life and all; as appears by that moſt remarkable Story in <hi>Verſtegan,</hi> and of the <hi>Pied Piper,</hi> that carried away an Hundred and Sixty Children from the Town of <hi>Hamel</hi> in <hi>Saxony,</hi> on the 22d of <hi>July, Anno Dom.</hi> 1370. a Wonderful Permiſſion of God, to the Rage of the Devil.</p>
+            <p>
+               <hi>Nicholaus Monardus,</hi> ſpeaks of a <hi>Worm</hi> that a Lady Eva<g ref="char:EOLhyphen"/>cuated, above a Foot long, with a double forked Tail.</p>
+            <p>
+               <hi>Fallopius,</hi> ſpeaks of a <hi>Worm</hi> all over hairy, black, ha<g ref="char:EOLhyphen"/>ving two Heads. It weighed Nine Ounces.</p>
+            <p>Dr. <hi>Edward May,</hi> our Country-man, hath written a Book of a very ſtrange <hi>Worm,</hi> whitiſh, about a Span long, and the thickneſs of a man's Finger, having towards the Tail two Branches divided into divers Fibers or Strings, of a fleſhy Colour; the Head bloody, and in Shape like unto a Serpent, or Snakes: It was taken from the Heart of one <hi>John Pennant</hi> in St. <hi>Giles</hi>'s.</p>
+            <p>The Four Figures of which is to be ſeen in the follow<g ref="char:EOLhyphen"/>ing Page.</p>
+            <figure>
+               <p>Anguilla.</p>
+               <p>Pedalis Bifurcatus.</p>
+               <p>Helminthocardia.</p>
+               <p>Dodroncalis.</p>
+               <figDesc>depictions of worms</figDesc>
+            </figure>
+            <p>A Patient of mine, 1687, who lived in <hi>Shoreditch,</hi> a Woman above Sixty, who had a continual Trembling a<g ref="char:EOLhyphen"/>bout her Heart, ſo that ſhe could not reſt Day nor Night: and withal, was ſtrangely tempted to cut her Husband's Throat, without any Reaſon, for ſhe proteſted ſhe lov'd him intirely, having been married many years, during which Time he had always been very reſpective to her, and never gave her any occaſion to entertain ſuch Diabolical Thoughts, Hearing this, I adviſed her to make her Addreſs to a Di<g ref="char:EOLhyphen"/>vine, for ſuch in this caſe were more proper than a Phyſi<g ref="char:EOLhyphen"/>cian. The Woman ſtill inſiſted on my Powder; I gave her a Paper four or five days after ſhe came for another,
+<pb n="21" facs="tcp:108076:11"/>
+affirming ſhe was much better; but not returning to me a<g ref="char:EOLhyphen"/>gain, I ſent to ſee what was become of her, the Perſon that went, found her in good Health, and thoſe wicked Fanta<g ref="char:EOLhyphen"/>ſtick helliſh Temptations, ſubdued and vaniſhed. Now whether this ſudden Change was cauſed by the powerful Vertue and Effect of the Medicine, ay, or no, you may Conjecture as you pleaſe; for I never will atteſt what I am altogether uncertain of. She voided no <hi>Worms</hi> viſible to the Eye, but abundance of ſtrange ſtuff.</p>
+            <div type="part">
+               <head>Diagnoſtick Signs of Worms.</head>
+               <p>Paleneſs of the Face, itching of the Noſe, hollowneſs of the Eyes, unuſual defluxion of Spittle, grating of the Teeth when aſleep; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul<g ref="char:EOLhyphen"/>neſs, pains and heavineſs in the Head: a dry Cough, an itching in <hi>Ano,</hi> white and thick <g ref="char:V">Ʋ</g>rine; a univerſal Trembling over the whole Body, a ſhining about the Eyes, unquiet Sleep, often ſtart<g ref="char:EOLhyphen"/>ing, loſt Appetite, unreaſonable Appetite, drineſs of the Tongue and Lips, Extenſion and ſwelling of the Belly, a gnawing and biting about the Stomach, frightful Dreams, Extream Thirſt, the Body decayed and lean, Fits in Children, often Vomiting, ſtinking Breath.</p>
+            </div>
+            <div type="part">
+               <head>Signs of Health.</head>
+               <p>
+                  <hi>The Complexion freſh or clear: Moderate Appetite: Quiet Sleep: The Mind cheerful: Excrement yellow: <g ref="char:V">Ʋ</g>rine well Co<g ref="char:EOLhyphen"/>loured: The Body open? The Fleſh firm,</hi> &amp;c.</p>
+               <p>Theſe are the Signs of Health, of which <hi>Temperance</hi> is the chief Pillar, and conſiſts moſt in Meat, Drink, Sleep, and Exerciſe; after which all prudent Parents ought to caſt an Eye: But on the contrary, I have ſeen People force, or perſwade, their Children to eat againſt Appetite; which, as <hi>Rameſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> ſay, is very pernicious; for if there be little or no Appetite, it is an infallible Sign, the Meat formerly eat<g ref="char:EOLhyphen"/>en, or the Crudities thereof, lies yet in the Stomach, or in the Veins. And to faſt too long, is as injurious, for there<g ref="char:EOLhyphen"/>by
+<pb n="22" facs="tcp:108076:12"/>
+the Stomach is fill'd with abundance of Humours, which will not only endanger Worms, but divers other Evils; for empty Veins draw deepeſt, and what they firſt receive, good or bad, that they mix with the Blood. Therefore Children, by reaſon of their growing, ought to eat often, but not too much at a time, nor of many Diſhes, for ma<g ref="char:EOLhyphen"/>ny Diſhes breed many Diſeaſes; and Diſtempers, with care, are eaſier prevented than cured. Yet we ſee many, by o<g ref="char:EOLhyphen"/>ver-eating, wilfully murther themſelves, dig their own Graves with their Teeth, and all to pleaſe that devouring Gut of theirs, which is a pernicious Sink, and the Fountain of all Diſeaſes; it ſubverts and perverts the good Tempera<g ref="char:EOLhyphen"/>ture of the Body, ſtifles the Senſes and Wits, ſtrangles Na<g ref="char:EOLhyphen"/>ture, being not able to digeſt the Meat throughly: whence enſue Crudities, and the Ground and Seeds of many <hi>Diſea<g ref="char:EOLhyphen"/>ſes;</hi> yet it is impoſſible to preſcribe any exact Rule, as to a Quantity, for all Ages, Sexes, and Conſtitutions, when we ſee by Experience, That one and the ſame Man cannot live in Health with the ſame Food that ſufficeth for quantity at another time; that what will ſuffice in <hi>Summer,</hi> is too little in <hi>Winter:</hi> That what will ſatisfie one, and leſs than that will ſurfeit another, ſhould he eat as much; therefore it is not only an idle Conceit, but a Madneſs; Since there is ſuch Variety in mens Bodies, Strength, Conſtitutions, Diſ<g ref="char:EOLhyphen"/>poſitions, and manner of Living; the quantity of Food then, ought to be proportioned by no other Rule, but the quality and condition of the Stomach; and that meaſure is exactly proportioned, we may conclude which the Stomach hath ſo much Power over, as perfectly to Concoct or Di<g ref="char:EOLhyphen"/>geſt in the midſt of any Imployment either of Body or Mind; and then the Body will be thereby more lightſome and refreſhed: So that I would have all obſerve the old Rule, that is, <hi>To riſe with an Appetite,</hi> conſidering we have two Gueſt to entertain, the <hi>Body,</hi> and the <hi>Soul,</hi> and that therefore we have a Care that we deſtroy not the Power of the one, nor the Faculties of the other; for tho the <hi>Bel<g ref="char:EOLhyphen"/>ly</hi> have no Ears, yet it hath Intelligence to beg its due, and Wiſdom to diſcern when it hath enough.</p>
+               <p>
+                  <pb n="23" facs="tcp:108076:12"/>The ſame may be ſaid by too much <hi>Wine,</hi> that brave Heroick Elevator of the Spirits, which drags the <hi>Soul</hi> out of its ſolitary and inmoſt Room, adorning it with vigorous, cheerful and aſpiring Thoughts: Yet ſoon is this great work unravel'd by the <hi>dull ſluggiſh power</hi> of drowſie <hi>Sleep:</hi> And all are Metamorphoſed, our <hi>Souls</hi> are the ſame they were, only they had been dreſt in <hi>various Figures.</hi> And to conclude, Wine's but a <hi>deluſive Bliſs,</hi> a ſhortning to our days, the introducer of all <hi>Quarrels</hi> and <hi>Miſchiefs;</hi> the Exhauſter of our Eſtates, the Trouble and Sorrow of our Friends; all which Temperance prevents, which is its own Reward, were there no greater.</p>
+            </div>
+            <div type="part">
+               <p>I Shall now ſpeak of ſuch as cannot hold their Water, or have a <hi>Diabetes.</hi> In this Diſeaſe, with my Powder I have often brought away <hi>Worms</hi> by <hi>
+                     <g ref="char:V">Ʋ</g>rine,</hi> though the Medicine never did effect a Cure, which is apparent Worms are not the cauſe of that Diſtemper: Yet by reaſon it is a Diſeaſe that often proves fatal, and brings Children into Conſump<g ref="char:EOLhyphen"/>tions, and ſo to the Grave, I have collected and ſet down ſuch Remedies as the beſt of Phyſicians made uſe on.</p>
+               <list>
+                  <item>
+                     <hi>Hoggs Bladder in Powder.</hi>
+                     <note place="margin">Marcellus.</note>
+                  </item>
+                  <item>
+                     <hi>The Claws of a Sow in Powder.</hi>
+                     <note place="margin">Plinius.</note>
+                  </item>
+                  <item>
+                     <hi>The dry'd Combs of Hens in Powder.</hi>
+                     <note place="margin">Rhaſes.</note>
+                  </item>
+                  <item>
+                     <hi>The Throats of Hens in Powder,</hi>
+                     <note place="margin">Galenus.</note> Galen <hi>chiefly uſed this for the Cure of a Diabetes.</hi>
+                  </item>
+                  <item>
+                     <hi>The Spectacle-Stone, call'd in Latin</hi> Specularis, <hi>being burnt,</hi>
+                     <note place="margin">Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rovandus.</note> 
+                     <hi>the Powder is given with great ſucceſs againſt flux of <g ref="char:V">Ʋ</g>rine, Fiſtula's and Hemorrhoids.</hi>
+                  </item>
+                  <item>
+                     <hi>The Blood of a He-goat in Powder.</hi>
+                     <note place="margin">Dioſcordes.</note>
+                  </item>
+                  <item>
+                     <hi>The Bones of a Water-Rat in Powder.</hi>
+                     <note place="margin">Ae<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>culapis.</note>
+                  </item>
+                  <item>
+                     <hi>A Flea'd-Mouſe dried and beat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n into Powder, and given at a time for three days together.</hi>
+                  </item>
+               </list>
+               <p>
+                  <pb n="24" facs="tcp:108076:13"/>Any of theſe aforeſaid being prepared in fine Powder may be given in a little Clarit or Plantane-water, the Quantity according to the Age of the Patient: give it in the Morning; ſome take it Night and Morning. If you purge firſt, it will be the better: For this Diſeaſe is occaſioned by the fulneſs, weakneſs and heat of the Kidneys and Reins, which cauſes ſuch a ſwift Paſſage (of that which is drunk) throw the body, that the Drink is hardly altered.</p>
+               <p>
+                  <note place="margin">Worms in the Face.</note>Worms in the Face are animated of corrupt Humours, lodg'd between the Skin and the Fleſh, and cannot be de<g ref="char:EOLhyphen"/>ſtroy'd quickly without injuring the Face. But thoſe who have patience, may deſtroy them with Oyl of <hi>Myrrh,</hi> mix'd with Vinegar of Squills, and when you uſe it, let it dry into the Skin.</p>
+               <p>
+                  <note place="margin">Freckles taken out.</note>The ſaid Oyl mixt with the Blood of a Vine, will take out Freckles, if not too deep in the Skin, or mix it with Birch-water, it will effect the ſame.</p>
+               <p>
+                  <note place="margin">Pearl diſſol<g ref="char:EOLhyphen"/>ved.</note>Birch-water Diſſolves Pearl, and makes a rare Coſmetick, which is a Secret very little known: if you find it too ſharp for your Skin, mix it with water, or <hi>May-Dew,</hi> clarified by the <hi>Sun.</hi> Some uſe the waters of Bean-Bloſſoms, White-Thorn and Lyllys: But I am convinced, that all waters, drawn by Fire, are iniurious to the Skin, unleſs extracted with ſome Balſamick Body, as Hungaria water is, though the Compoſition is only Spirit of Wine and Roſemary-Flowers.</p>
+               <p>
+                  <note place="margin">Aqua Hunga<g ref="char:EOLhyphen"/>ria.</note>Four pound of Flowers to three Quarts of Spirits, and af<g ref="char:EOLhyphen"/>ter 24 Hours infuſion, draw it off in Balneo, the Head and Receiver being well lu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed. This is a rich Coſmetick, and hath many other Vertues which I ſhall omit here, by reaſon they are ſo well known. And now you may think as ma<g ref="char:EOLhyphen"/>ny pretenders do, that is, having the Receipt, you can make the Water, which already hath blaſted its Eſtimation. For ſome make it of Roſemary-tops inſtead of Flowers; others of Flowers they know not when gathered, or from whence they came. But if you deſign to make this Water, obſerve and you will find upon Roſemary-Flowers a rich White
+<pb n="25" facs="tcp:108076:13"/>
+Gum or Balſamick-matter; then they are in their prime, gather them on a dry day; for if they hang long, that Bal<g ref="char:EOLhyphen"/>ſamick-matter is exhaled by the influence of the <hi>Sun,</hi> and the Flowers good for little but to ſet Fools to work.</p>
+               <p>
+                  <hi>Such as deſign to make uſe of Birch-water muſt tap the Tree in</hi> April.</p>
+            </div>
+            <div type="part">
+               <head>Oyl of Myrrh.</head>
+               <p>BOyl Hen-Eggs hard, and cut them long-ways through the middle, take out the Yolks and fill the Cavities with Powder of Myrrh, joyn them, and bind 'em gently with a Thred, put them on a Grate in a cool moiſt Celler, a Diſh under, and the Oyl will drop from them.</p>
+               <p>This Oyl, dropt in Water, is a good Coſmetick, prevents Worms breeding in the Face, creates a fair, freſh and youthful Complexion; and if uſed in time, I believe might prevent the Marks of the Small-Pox, by reaſon it will heal a Wound without leaving a Scar. Or thus,</p>
+               <p>
+                  <hi>So ſoon as the Small-Pox appears,</hi>
+                  <note place="margin">To prevent marking in the Small-Pox.</note> 
+                  <hi>that you are ſatisfied it is the Diſeaſe, with a Feather anoint the Fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> with Oyl of Sweet-Almonds, ſix or ſeven times over. Let the Oil be new drawn; when you have done ſo cover the Face all over with Leaf-gold, the Eyes excepted, be ſure you leave no part uncovered, but rather lay two leafs on, for where there is a defect of Gold, there will be a ſcar: Let it remain on till the Scabs ſhale off.</hi> This <hi>is the only thing yet known for this purpoſe, and if well applied ſeldom if ever fails: The ſick muſt lye on their Back while it is done.</hi>
+               </p>
+               <p>That Worms are the occaſion of the ſhedding of Hair,<note place="margin">Worms in the Head kill'd.</note> is the Opinion of many wiſe and learned Authors: Being bread in the Roots, which frequently appears after a Fit of Sickneſs on the Head, as well as the Hands and Feet; and to deſtroy them, rub the Head morning and night, with the Inſide of an Out-Peel of an Orange, for a month or ſix weeks, and it will not only kill the Worms, but make the Hair grow thick. I have known it bring Hair on a Bald-Head.</p>
+               <p>
+                  <pb n="26" facs="tcp:108076:14"/>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> killed.</note>There is another ſort of Worms, by ſome called <hi>Teredo:</hi> Theſe Vermin are bred in the Feet and hands, and cauſe a great itching in thoſe parts. They generally appear through weakneſs, after a Fit of Sickneſs. They are killed by anoin<g ref="char:EOLhyphen"/>ting with Black-Soap and Quick-ſilver.</p>
+               <p>Worms very often are the cauſe of a Red-Face; and the way to deſtroy them, and take away the Redneſs, if there ſhould be no Worms, is as followeth.</p>
+               <p>
+                  <note place="margin">The Cure of a Red-face.</note>Take half a pound of diſtilled Vinegar, two New-laid-Eggs with their Shells; two ſpoonfuls of Flower of Sul<g ref="char:EOLhyphen"/>phur. Let theſe infuſe in the Vinegar three days; then take out the Eggs, and with a Needle prick them full of holes, but not too deep; leſt any Yolk come out, and let the Whites run into the Vinegar; and ſtrain all through a fine Cloth, and tye the Sulpur in the Cloth like a little Ball, and when you uſe it, dip the Ball in the Liquor, and pat the Place three or four times a day, and in a ſhort time you will find the Effect. Keep the Ball in a Box from the Air.</p>
+            </div>
+            <div type="part">
+               <head>Directions for the taking of <hi>Pulvis Benedictus.</hi>
+               </head>
+               <p n="1">
+                  <hi>I.</hi> AN Infant of ſix Months old, ſo upwards to a year, may take half a Paper in the Morning,<note place="margin">How taken by Infants.</note> you may give it in a spoonful of Breaſt-milk, and let it take it two or three Mor<g ref="char:EOLhyphen"/>nings together, which with the ſame Quantity of my Night-pow<g ref="char:EOLhyphen"/>der taken at night, may effect a Cure not only as to <hi>Worms</hi> and <hi>Vermiculous</hi> matter, but in any other grievance or Diſeaſe incident to their Age. Though if you find they do require more, proceed and give it, only intermit a day; for the Medicine is ſo ſafe, you need not fear any prejudice by it; and an Infant of two or three Months old may take the ſame.</p>
+               <p n="2">
+                  <note place="margin">From a year to two years.</note>
+                  <hi>II.</hi> From a year to two years of age, you may begin with half a Paper if that give not two or three Stools, give the next Mor<g ref="char:EOLhyphen"/>ning a whole Paper.</p>
+               <p n="3">
+                  <note place="margin">From two years to four or five.</note>
+                  <hi>III.</hi> From two years of age to four or five, you may begin with a whole Paper.</p>
+               <p n="4">
+                  <note place="margin">From five to ten.</note>
+                  <hi>IV.</hi> From five or ſix years, and ſo to ten, you may begin with a Paper and a half.</p>
+               <p n="5">
+                  <pb n="27" facs="tcp:108076:14"/>
+                  <hi>V.</hi> From ten to fifteen with two Papers.<note place="margin">From ten to fifteen. From fifteen to twenty, <hi>&amp;c.</hi>
+                  </note>
+               </p>
+               <p n="6">
+                  <hi>VI.</hi> From fifteen to twenty, with two Papers and a half, or three, if your Constitution be very ſtrong and hard to work on, you may take four, but this is very rare.<note place="margin">The difference in Conſtituti<g ref="char:EOLhyphen"/>ons, and Doſe to keep to.</note>
+               </p>
+               <p n="7">
+                  <hi>VII.</hi> So great is the difference in Conſtitutions that it is im<g ref="char:EOLhyphen"/>poſſible to propoſe any one Doſe for all, though of an age; when a Child of five or ſix years of age will, and do often take three Pa<g ref="char:EOLhyphen"/>pers, and ſhall have with it no more Stool than a man that takes the ſame Quantity, therefore I would adviſe you to begin with a low Doſe, till you know the ſtrength of your Conſtitution, and keep to that Doſe as gives only two or three Stools.</p>
+               <p n="8">
+                  <hi>VIII.</hi> You may take it three Mornings ſucceſſively,<note place="margin">How often ta<g ref="char:EOLhyphen"/>ken.</note> and then intermit a day, and ſo continue till the Cure be effected, which will be in a few days. But for Men and Women, they may take it ſix or ſeven days without intermiſſion, if the <hi>Wormatick</hi> matter be ſo obſtinate and rebellious as to repaire it, and they have ſtrength to go through it.</p>
+               <p n="9">
+                  <hi>IX.</hi> You may take either the great or leſſer Compoſition in a spoonful or two of Beer, Ale or Claret, or in the Pulp of an Aple,<note place="margin">In what it may be taken.</note> 
+                  <hi>&amp;c.</hi> The more curious may give it in the Diſtill'd water of any of theſe Herbs, <hi>Centaury the Leſs, Wormwood, Betony, Carduus, Tanſie,</hi> theſe are all enemies to Worms, and are hot in the ſecond Degree; yet ſo it be taken it matters not much in what, for it will do the work for which it is deſigned.</p>
+               <p n="10">
+                  <hi>X.</hi> If the Child be Fev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſh you may <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive it in the Diſtilled Water, or Syrup of either <hi>Purſlain, Plantane, Succory,</hi>
+                  <note place="margin">In what taken if Fevoriſh.</note> or <hi>Endive,</hi> for theſe are no friends to Worms, and are cold only in the ſecond Degree.</p>
+               <p n="11">
+                  <hi>XI.</hi> Some Phyſicians approve of ſweet Vehicles to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive their Anti-verminous Medicines in, as Milk, Honey, Syrup,<note place="margin">Of taking it in ſweet vehicles.</note> 
+                  <hi>&amp;c.</hi> which are very proper when Worms affect the vital parts, and lie remote from the Stomach, by reaſon they tempt them from thoſe parts to the Medicine, and ſuch who ſuspect Worms in thoſe parts ought to take their Medicines in ſweet Vehicles.</p>
+               <p n="12">
+                  <hi>XII.</hi> It muſt be taken early in the Morning,<note place="margin">What taken in the work<g ref="char:EOLhyphen"/>ing.</note> and faſt two or three hours after it, then give warm Broth or Water-Gruel, this liberty I give to Children by reaſon of their often craving for Vi<g ref="char:EOLhyphen"/>ctuals,
+<pb n="28" facs="tcp:108076:15"/>
+but elder perſons muſt faſt till Noon, and if they drink any thing in the working, let it be warm Purl.</p>
+               <p n="13">
+                  <note place="margin">Confinement in taking it.</note>
+                  <hi>XIII.</hi> Children the morning they take it muſt keep the houſe, but if the weather be fair and warm, after Dinner they may play abroad, or go to School. Elder perſons may go about their occaſions provided they go warm, and keep their feet dry.</p>
+               <p n="14">
+                  <note place="margin">To haſten the Operation.</note>
+                  <hi>XIV.</hi> If the Doſe taken work not to anſwer your expectation, boil a little <hi>Senna</hi> in ſome Ale, and drink the Ale warm, and it will haſten the operation.</p>
+               <p n="15">
+                  <note place="margin">Of viewing the Stools.</note>
+                  <hi>XV.</hi> Beſure you view the Childs Stools in the taking of it, and three or four days after it has done taking, for ſometimes Worms come away dead at that diſtance of time.</p>
+               <p n="16">
+                  <note place="margin">The Vertues of <hi>Pulvis Bene<g ref="char:EOLhyphen"/>dictus.</hi>
+                  </note>
+                  <hi>XVI. Pulvis Benedictus,</hi> the Great and Leſſer Compoſition, are much alike in operation, only the greater is more ſearching and active in his buſineſs, and ſooner obtains a victory, and is more powerful in deſtroying <hi>Worms</hi> in the Bladder, of which it never fails.</p>
+               <p>They are both <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Gentle in their operation, that they ſeldom make the youngeſt Child ſick, unleſs the Stomach abounds with Crudities. They Purge and ſweeten the Blood, carry off all groſs, corrupt, putrid Humours; Creates a freſh and healthful Complexion in ſuch as are defective by any <hi>Wormatick</hi> matter. And ſo pernicious are theſe Vermin, that there is hardly any Age, Sex, or Conſtitution, but are ſubject to them; nor part of us but they do affect.</p>
+               <p>For there is no Blood or Humours but may putrifie one time or other, which putrid matter retaining a vital principle, having a humid kind of heat apt for Generation, produceth <hi>Worms,</hi> which if not, Putrifaction hath certain Seminals, or Seeds within it ſelf, that are as pernicious <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Worms</hi> can be, and cauſes the ſame Diſeaſes as <hi>Worms</hi> actually exiſtent. But this precious Medi<g ref="char:EOLhyphen"/>cine deſtroys not only <hi>Worms,</hi> but all manner of <hi>Vermiculous</hi> matter; for where no <hi>Worms</hi> appear it effects a Cure, if taken any time. And, in a word, is the only Specifick yet known.</p>
+               <p>
+                  <hi>It is a great Diuretick cleanſing the Reins of Slime, Sand or Gravel.</hi>
+               </p>
+               <p>
+                  <hi>It expells Wind, and is a Soveraign Medicine in the Cholick and Griping of the Guts.</hi>
+               </p>
+               <p>
+                  <pb n="29" facs="tcp:108076:15" rendition="simple:additions"/>
+                  <hi>It opens all Obſtructions of the Stomach, Lungs and Liver.</hi>
+               </p>
+               <p>
+                  <hi>Cauſes a good Appetite, and helps Indigeſtion.</hi>
+               </p>
+               <p>
+                  <hi>In Rheumatiſms, Ptiſick, Aſthma, or ſhortneſs of Breath, it has been found very ſucceſsful.</hi>
+               </p>
+               <p>
+                  <hi>It mightily prevails in the Rickets, and hath ſtraitened the Bones, tho the venom in that Diſeaſe is lodged in the Spinal marrow, from whence it is called</hi> Rhachitis.</p>
+               <p>
+                  <hi>It is an Antidote againſt the Plague, Spotted Fever, and all Peſtilential Diſeaſes,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>The chief Ingredients in theſe admirable Powders being parts ſimple, and parts Chymical of the</hi> Juniper, Orange, <hi>and</hi> Wallnut-Trees. <hi>I do confeſs it is ſomething bitter. But a Diadem will not cure the Apoplexy, or a Velvet-ſlipper the Gout.</hi>
+               </p>
+               <p>And I hope all ingenious Perſons are ſatisfied, that thoſe Me<g ref="char:EOLhyphen"/>dicines which work upon ſuch Humours, will almoſt reach any Diſtemper, if not too far gone. Since corruption and putrifaction are the fore-runners and introducers of all Diſeaſes. Therefore no better Phyſick can be taken, for all Ages, Sexes, and Conſtitu<g ref="char:EOLhyphen"/>tions, from the Womb to the Tomb.</p>
+            </div>
+            <div type="part">
+               <head>The <g ref="char:V">Ʋ</g>ſe and Virtues of my Night-Powder.</head>
+               <p n="1">I. THis Powder is taken at Night going to Bed in a Spoonful or two of Beer, Wine or any Liquid thing. Take the ſame Quantity as you do of the Purging Powder, as well Children as elder Perſons.</p>
+               <p n="2">II. It has no ill Taſt, nor will it Purge, yet it is a pow<g ref="char:EOLhyphen"/>erful enemy to Worms, and by taking this at Night you give the Vermin no reſt. And if it were taken thoſe Mor<g ref="char:EOLhyphen"/>nings you omit Purging it were the better.</p>
+               <p n="3">III. It is an admirable Medicine in the <hi>Green-ſickneſs,</hi> it ſweetens the whole maſs of Blood, and may ſafely be gi<g ref="char:EOLhyphen"/>ven in any Malignant Fever, being a great Diminiſher of the Preternatural heat, and taken with the Purging-Pow<g ref="char:EOLhyphen"/>der,
+<pb n="30" facs="tcp:108076:16"/>
+will reach moſt Diſeaſes incident to Youth or Old Age.</p>
+               <p n="4">IV. And whoever begins the taking of theſe Powders, I only deſire they would be ſo wiſe and kind to themſelves as to go th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ough with it, and not leave off at the taking a Doſe or two; do but this, and you will find the effect to anſwer your expectation.</p>
+            </div>
+            <div type="part">
+               <head>The <g ref="char:V">Ʋ</g>ſe and Virtue of the <hi>Aromatical</hi> Plaiſter.</head>
+               <p n="1">I. THis Plaiſter muſt be laid to the Stomach hot, the point downwards, and bound on, let it remain ten or twelve days, unleſs it be in caſe of Life and Death, then you muſt have a freſh Plaiſter every two or three days.</p>
+               <p n="2">II. It is a great enemy to Worms, and Wormatick mat<g ref="char:EOLhyphen"/>ter, diſcharging the Stomach of cold wateriſh Humours, and groſs corrupt Flegm, which is apt for the Generation of Worms.</p>
+               <p n="3">III. In Conſumptions, its effects has been proved to the ſatisfaction of many, applying a freſh Plaiſter once a week, for it revives the Spirits, and ſtrengthens the Stomach, and all the vital parts, giving them a true natural heat not at all ſuperfluous.</p>
+               <p n="4">IV. Some that have layn ſpeechleſs, by this Plaiſter have Recovered to the great wonder of all their Acquain<g ref="char:EOLhyphen"/>tance; it being a friend to all the Spirits natural, Vital and Animal, and is without doubt one of the greateſt Cordi<g ref="char:EOLhyphen"/>als yet known, of an outward application.</p>
+               <p>It retains its vertue forty years, and when left off is a rich perfume to burn in your Houſe.</p>
+            </div>
+            <div type="part">
+               <head>My Ointment againſt Worms.</head>
+               <p>IT is to be rubbed and chaffed in with your Fingers, by the Fire, on the Stomach or Belly of the Child, or both, if there be occaſion, Night and Morning, and a piece of Brown Paper bound on.</p>
+               <p>Of all External Remedies againſt Worms, this is the chief, and exceeds my Plaiſter, but is of no other uſe.</p>
+               <list>
+                  <pb n="31" facs="tcp:108076:16"/>
+                  <item>
+                     <hi>Pulvis Benedictis</hi> the Great and Leſſer Compoſition, Each Paper Two Shillings.</item>
+                  <item>My Night Powder, Two Shillings.</item>
+                  <item>My <hi>Aromatical</hi> Plaiſter, Two and Six-pence.</item>
+                  <item>My Ointment the Pot, Two and Six-pence.</item>
+               </list>
+               <p>Each Paper contains Nine Doſes, Sealed with a <hi>Cheve<g ref="char:EOLhyphen"/>ron,</hi> between <hi>Three Creſcents,</hi> Prepared by <hi>R. Clark,</hi> Chymiſt, Living at the <hi>Golden-Ball</hi> in <hi>Devonſhire-Street</hi> without <hi>Biſhopſgate.</hi> Where in my abſence is a Gentlewoman will furniſh you with any of the aforeſaid Preparations.</p>
+            </div>
+            <div type="note">
+               <head>ADVERTISEMENT.</head>
+               <p>I Am very ſenſible many People are averſt againſt Me<g ref="char:EOLhyphen"/>dicines, that are publiſh'd by the way of Bills, yet ſe<g ref="char:EOLhyphen"/>veral Ingenious Men, and ſome Colledg-Phyſicians have done, and ſtill do the ſame by Medicines that have been ſucceſsful for many years; though I muſt confeſs there are a great many ſad Tools take the ſame Method, which may well put People in a Conſternation. For ſince I have publiſhed theſe Powders, which has not been many year<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, every one has a rare Medicine for the <hi>Worms.</hi>
+               </p>
+               <p>I am informed there is a Tooth-drawer living in <hi>Hol<g ref="char:EOLunhyphen"/>born,</hi> that calls himſelf a Phyſician, who has publiſh'd a Powder for the <hi>Worms,</hi> and put out Tables with the Cu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the very ſame <hi>Worms</hi> as are in mine; and what he writes relating to <hi>Worms</hi> is all taken out of this Book. Now every Man's ignorance ought to be his greateſt Se<g ref="char:EOLhyphen"/>cret; then what can you think of him, that expoſes his own weakneſs in Print. But Ignorance and Impudence are as inſeparable as heat from fire.</p>
+               <p>With care and pains I have collected from the beſt Au<g ref="char:EOLhyphen"/>thors what I thought might be uſeful as to <hi>Worms,</hi> in which I deſign to proceed till I have made this Book ſix Sheets, which I hope will be acceptable to all that love themſelves and their Children, as well as a help to the Tooth-drawer.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:108076:17"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Latus.</hi>
+                  </p>
+                  <p>
+                     <hi>Teretes.</hi>
+                  </p>
+                  <p>
+                     <hi>Aſcarides.</hi>
+                  </p>
+                  <p>
+                     <hi>Cucurbitini.</hi>
+                  </p>
+                  <figDesc>depictions of worms</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:108076:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
